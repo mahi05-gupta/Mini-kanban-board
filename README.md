@@ -25,6 +25,3 @@ Note
 This project implements the core functionality of a Kanban board.
 (Originally assigned with Next.js, implemented here using JavaScript.)
 
-Author
-
-Mahi Gupta
