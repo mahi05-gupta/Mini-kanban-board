@@ -8,7 +8,8 @@ Features
 - Three columns: Pending, In Progress, Completed
 - Move tasks between columns
 - Edit and delete tasks
-
+- Responsive design
+  
 Tech Stack
 
 - HTML
