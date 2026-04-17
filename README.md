@@ -22,9 +22,10 @@ How to Run
 2. Open "index.html" in browser
 
 Screenshotes
-1. <img width="865" height="837" alt="Screenshot 2026-04-17 184128" src="https://github.com/user-attachments/assets/7b42de9d-8f3b-4551-8ae4-629dca863e63" />
-2. <img width="1856" height="837" alt="Screenshot 2026-04-17 184105" src="https://github.com/user-attachments/assets/daf87e7c-cadf-4b96-994f-f86865ff9cce" />
-3. <img width="1854" height="862" alt="Screenshot 2026-04-17 184051" src="https://github.com/user-attachments/assets/57afc0e0-f1bd-4a25-86a6-dce2550d048f" />
+<img width="1854" height="862" alt="Screenshot 2026-04-17 184051" src="https://github.com/user-attachments/assets/57afc0e0-f1bd-4a25-86a6-dce2550d048f" />
+ <img width="865" height="837" alt="Screenshot 2026-04-17 184128" src="https://github.com/user-attachments/assets/7b42de9d-8f3b-4551-8ae4-629dca863e63" />
+ <img width="1856" height="837" alt="Screenshot 2026-04-17 184105" src="https://github.com/user-attachments/assets/daf87e7c-cadf-4b96-994f-f86865ff9cce" />
+
 
 
 
